@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=tolik518&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=react" alt="tolik518's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcancela&layout=compact&show_icons=true&theme=react&hide=html,css" alt="most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=react&hide=html,css" alt="most used languages"/>
 </div>
