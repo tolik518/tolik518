@@ -1,15 +1,16 @@
 ## About
 
-I'm Anatolij, or Tolik for short.
-This readme is currently work in progress.
+Hi, I'm living and working from Berlin and currently visiting a school providing vocational education.  
+
 
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 
 ## SoG Savegame Reader ![Icon](https://returnnull.de/images/_64.png)
 
-This is an [editor](https://github.com/tolik518/SoG_SGreader) for the character files for [Secrets of Grindea](https://www.secretsofgrindea.com/). Its not full-featured but you **can open your save game** and **edit your name, money, skills, exp, inventory** and **most of what you want to edit!**  
-Features like editing quest flags or collectables are theoretically possible but were never finished. Nice-to-have features like exporting save games to JSON or XML are also not implemented at the moment (v0.3.8).
-It was my only project I was close to finishing but scope creep and lack of knowledge of design patterns hindered me at that time to finilize the project.
+This is an [editor](https://github.com/tolik518/SoG_SGreader) for the character files for [Secrets of Grindea](https://www.secretsofgrindea.com/). Its not full-featured but you can already open your save game, **export it as JSON** or **edit your name, money, skills, exp, inventory** and **most of what you want to edit!**   
+Features like editing quest flags or collectables are theoretically possible but were never finished.    
+Nice-to-have features like importing save games from JSON or XML are also not implemented at the moment (v0.4.0).  
+It was my only project I was close to finishing but scope creep and lack of knowledge of design patterns hindered me at that time to finilize the project. It's still being **maintained**.
 
 [SoG Savegame Reader/Editor](https://github.com/tolik518/SoG_SGreader)
 
