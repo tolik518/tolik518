@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm living and working from Berlin and currently visiting a school providing vocational education.  
+Living and working from Berlin - currently visiting a school providing vocational education.  
 
 
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
@@ -13,22 +13,6 @@ Nice-to-have features like importing save games from JSON or XML are also not im
 It was my only project I was close to finishing but scope creep and lack of knowledge of design patterns hindered me at that time to finilize the project. It's still being **maintained**.
 
 [-> to the project page](https://github.com/tolik518/SoG_SGreader)
-
-[<img src="https://returnnull.de/images/gather518_1.png" alt="Secrets of Grindea Screenshot" height="auto" align="left">](https://github.com/tolik518/gather_518/)
-## Gather 518% ![Icon](https://returnnull.de/images/GT32.png)
-
-[Gather 518%](https://github.com/tolik518/gather_518/) is a google chrome extension that adds some menu points to the [gather.town](gather.town) UI.  
-This is a work in progress proof on concept and is in the very early stages.
-
-
-### Plan (not everything implemented yet): 
-- Teleport to user
-- Get users to you
-- Make yourself a robot (other can control you through chat commands e.g. `up 2`, `left 4`, `down 1`)
-- UI elements in the online section
-- Publish to the Chrome Web Store
-
-[-> to the project page](https://github.com/tolik518/gather_518)
 
 
 
