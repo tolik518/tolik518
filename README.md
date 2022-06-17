@@ -28,4 +28,4 @@ This is a simple [Pong](https://en.wikipedia.org/wiki/Pong) game, but for the [G
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=github_dark&hide=html,css" alt="most used languages"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=github_dark&hide=html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=github_dark&hide=html,css,Makefile,scss)" alt="most used languages"/>
