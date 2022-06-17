@@ -16,6 +16,16 @@ It was my only project I was close to finishing but scope creep and lack of know
 
 
 
+## GBA Pong ![Icon](https://returnnull.de/images/pong_github.png)
+[<img src="https://returnnull.de/images/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong) 
+[<img src="https://returnnull.de/images/pong-1.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong) 
+[<img src="https://returnnull.de/images/pong-3.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong)
+
+This is a simple [Pong](https://en.wikipedia.org/wiki/Pong) game, but for the [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance). This version uses the mode 3, which is also known as the bitmap mode. It has not unusual limitations for the developer - so it was a nice way for me to get into C. 
+
+[-> to the project page](https://github.com/tolik518/GBA_Pong) 
+
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=github_dark&hide=html,css" alt="most used languages"/>
