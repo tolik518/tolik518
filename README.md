@@ -21,7 +21,7 @@ It was my only project I was close to finishing but scope creep and lack of know
 [<img src="https://returnnull.de/images/pong-1.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong) 
 [<img src="https://returnnull.de/images/pong-3.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong)
 
-This is a simple [Pong](https://en.wikipedia.org/wiki/Pong) game, but for the [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance). This version uses the mode 3, which is also known as the bitmap mode. It has not unusual limitations for the developer - so it was a nice way for me to get into C. 
+This is a simple [Pong](https://en.wikipedia.org/wiki/Pong) game, but for the [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance). This version uses the mode 3, which is also known as the bitmap mode. It has no unusual limitations for the developer (except the limited ressources of course) - so it was a nice way for me to get into C. 
 
 [-> to the project page](https://github.com/tolik518/GBA_Pong) 
 
