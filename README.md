@@ -5,7 +5,7 @@ Living and working from Berlin - currently visiting a school providing vocationa
 
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 
-## SoG Savegame Reader ![Icon](https://returnnull.de/images/_64.png)
+## ![Icon](https://returnnull.de/images/_64.png) SoG Savegame Reader 
 
 This is an [editor](https://github.com/tolik518/SoG_SGreader) for the character files for [Secrets of Grindea](https://www.secretsofgrindea.com/). Its not full-featured but you can already open your save game, **export it as JSON** or **edit your name, money, skills, exp, inventory** and **most of what you want to edit!**   
 Features like editing quest flags or collectables are theoretically possible but were never finished.    
@@ -16,7 +16,7 @@ It was my only project I was close to finishing but scope creep and lack of know
 
 
 
-## GBA Pong ![Icon](https://returnnull.de/images/pong_github.png)
+## ![Icon](https://returnnull.de/images/pong_github.png) GBA Pong
 [<img src="https://returnnull.de/images/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong) 
 [<img src="https://returnnull.de/images/pong-1.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong) 
 [<img src="https://returnnull.de/images/pong-3.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong)
