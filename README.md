@@ -25,7 +25,3 @@ This is a simple [Pong](https://en.wikipedia.org/wiki/Pong) game, but for the [G
 
 [-> to the project page](https://github.com/tolik518/GBA_Pong) 
 
-
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik518&layout=compact&show_icons=true&theme=github_dark&hide=html,css,Makefile,scss" alt="most used languages"/>
