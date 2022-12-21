@@ -1,6 +1,12 @@
 ## About
 
-Living and working from Berlin - currently visiting a school providing vocational education.  
+Hi there, I'm Anatolij (or Tolik for short), a developer in training.
+
+## What I currently want to learn
+* get a deeper PHP knowledge
+* C++/C for Gameboy Advance developement
+* C for Arduino 
+* PCB design
 
 
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
