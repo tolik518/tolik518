@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm passionate about learning and exploring variou
 
  Below are some of the projects I've worked on:
 
+
+
+
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 ## ![Icon](https://returnnull.de/images/_64.png) SoG Savegame Reader
 
@@ -18,12 +21,13 @@ This is an editor for the character files of [Secrets of Grindea](https://www.se
 
 ## ![Icon](https://returnnull.de/images/pong_github.png) GBA Pong
 
-[<img src="https://returnnull.de/images/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong)[<img src="https://returnnull.de/images/pong-1.png?" alt="Pong for Game Boy Advance" width="auto" height="auto" align="auto">](https://github.com/tolik518/GBA_Pong)
-
+[<img src="https://raw.githubusercontent.com/tolik518/GBA_Pong/master/.github/readme/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="left">](https://github.com/tolik518/GBA_Pong)
 
 This is a simple Pong game developed for the Game Boy Advance using C. It utilizes mode 3, also known as bitmap mode, and features a cool title screen. Although it doesn't have many advanced features, it was a great project for me to dive into C programming and game development.
 
 [-> Visit the project page](https://github.com/tolik518/GBA_Pong)
+
+
 
 
 
