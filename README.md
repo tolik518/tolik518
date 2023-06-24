@@ -1,10 +1,10 @@
-# Hi there, I'm Anatolij (or Tolik for short), a developer in training.
+# About
 
-## About
+Welcome to my GitHub profile! I'm passionate about learning and exploring various aspects of development.
 
-Welcome to my GitHub profile! I'm passionate about learning and exploring various aspects of development. Below are some of the projects I've worked on:
+# Projects
 
-## Projects
+ Below are some of the projects I've worked on:
 
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 ## ![Icon](https://returnnull.de/images/_64.png) SoG Savegame Reader
@@ -39,11 +39,11 @@ Overall, the Qazaq Genius project is my appreciation for Qazaq culture, striving
 
 [-> Visit the project page](https://github.com/Qazaq-Genius)
 
-## Contact
+# Contact
 
 If you'd like to collaborate, discuss a project, or have any questions, feel free to reach out to me:
 
 [<img src="https://github.com/tolik518/tolik518/assets/3026792/9987a86b-2aaa-4f3e-b175-fa2db1b85772" alt="LinkedIn" width="16px" height="auto">](https://www.linkedin.com/in/anatolij-vasilev/)
- [Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
+  [ Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
 
 Thank you for visiting my profile!
