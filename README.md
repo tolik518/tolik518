@@ -32,7 +32,7 @@ Although it doesn't have any advanced features, it was a great project for me to
 
 
 
-[<img src="https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef" alt="qazaq genius screenshot" width="300px" height="auto" align="right">](https://github.com/Qazaq-Genius/Qazaq-Genius-App)
+[<img src="https://github.com/tolik518/tolik518/assets/3026792/4bc74258-3a11-4aa5-896b-01db79f8ab45" alt="qazaq genius screenshot" width="300px" height="auto" align="right">](https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef)
 
 ## ![Icon](https://github.com/Qazaq-Genius/Qazaq-Genius-App/blob/editor/public/favicon-32x32.png) Qazaq Genius
 
