@@ -23,7 +23,8 @@ This is an editor for the character files of [Secrets of Grindea](https://www.se
 
 [<img src="https://raw.githubusercontent.com/tolik518/GBA_Pong/master/.github/readme/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="left">](https://github.com/tolik518/GBA_Pong)
 
-This is a simple Pong game developed for the Game Boy Advance using C. It utilizes mode 3, also known as bitmap mode, and features a cool title screen. Although it doesn't have many advanced features, it was a great project for me to dive into C programming and game development.
+This is a simple Pong game developed for the Game Boy Advance using C. It utilizes the mode 3, also known as bitmap mode, and features a cool pixel art title screen.   
+Although it doesn't have any advanced features, it was a great project for me to dive into the C programming world, into dockerizing a C environment, and into game development.
 
 [-> Visit the project page](https://github.com/tolik518/GBA_Pong)
 
