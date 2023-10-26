@@ -2,6 +2,19 @@
 
 Welcome to my GitHub profile! I'm passionate about learning and exploring various aspects of development.
 
+
+# Contact
+
+If you'd like to collaborate, discuss a project, or have any questions, feel free to reach out to me:
+
+
+[<img src="https://github.com/tolik518/tolik518/assets/3026792/9987a86b-2aaa-4f3e-b175-fa2db1b85772" alt="LinkedIn" width="16px" height="auto">](https://www.linkedin.com/in/anatolij-vasilev/) [Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
+
+[<img src="https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico" alt="Dev.to" width="16px" height="auto">](https://dev.to/tolik518) [tolik518](https://dev.to/tolik518)
+
+[<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="x.com" width="16px" height="auto">](https://x.com/tolik518) [tolik518](https://x.com/tolik518)
+
+
 # Projects
 
  Below are some of my repositories I've been working on. I tried to keep the selection as diverse as possible so you get a clearer picture what I'm into.
@@ -53,12 +66,3 @@ It takes the bitmap-font and the text you want to write as input and generates a
 [-> Visit the project page](https://github.com/tolik518/bitmap_type_tracer)
 
 
-
-# Contact
-
-If you'd like to collaborate, discuss a project, or have any questions, feel free to reach out to me:
-
-[<img src="https://github.com/tolik518/tolik518/assets/3026792/9987a86b-2aaa-4f3e-b175-fa2db1b85772" alt="LinkedIn" width="16px" height="auto">](https://www.linkedin.com/in/anatolij-vasilev/)
-  [ Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
-
-Thank you for visiting my profile!
