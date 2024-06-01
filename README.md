@@ -10,8 +10,6 @@ If you'd like to collaborate, discuss a project, or have any questions, feel fre
 
 [<img src="https://github.com/tolik518/tolik518/assets/3026792/9987a86b-2aaa-4f3e-b175-fa2db1b85772" alt="LinkedIn" width="16px" height="auto">](https://www.linkedin.com/in/anatolij-vasilev/) [Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
 
-[<img src="https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico" alt="Dev.to" width="16px" height="auto">](https://dev.to/tolik518) [tolik518](https://dev.to/tolik518)
-
 [<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="x.com" width="16px" height="auto">](https://x.com/tolik518) [tolik518](https://x.com/tolik518)
 
 
@@ -25,7 +23,7 @@ If you'd like to collaborate, discuss a project, or have any questions, feel fre
 [<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 ## ![Icon](https://returnnull.de/images/_64.png) SoG Savegame Editor
 
-This is an editor for the character files of [Secrets of Grindea](https://www.secretsofgrindea.com/), a game I enjoyed playing. The SoG Savegame Reader, written in **C#**, allows you to open your save game, and edit various aspects such as your name, money, skills, experience, and inventory. You can also export the whole savegame to a JSON file. While some features like editing quest flags or collectibles are not implemented yet, I passively **maintain** the project but I don't plan to add more features at the moment. The latest version (v0.5.0) features in addition to the UI some CLI features.
+This is an editor for the character files of [Secrets of Grindea](https://www.secretsofgrindea.com/), a game I enjoyed playing. The SoG Savegame Reader, written in **C#**, allows you to open your save game, and edit various aspects such as your name, money, skills, experience, and inventory. You can also export the whole savegame to a JSON file. While some features like editing quest flags or collectibles are not implemented yet, I passively **maintain** the project but I don't plan to add more features at the moment. The latest version (v0.7.0) features in addition to the UI some CLI features.
 
 [-> Visit the project page](https://github.com/tolik518/SoG_SGreader)
 
@@ -52,7 +50,7 @@ Although it doesn't have any advanced features, it was a great project for me to
 The **Qazaq Genius** project is a small website, that originated from an [Instagram page](https://www.instagram.com/qazaq.genius/), developed using **Next.js** and Tailwind CSS for the frontend and **PHP 8.1** with Slim for the backend.
 The project was a personal initiative to contribute to the Qazaq community. By developing this website, the aim was to create a convenient platform for people to access the lyrics of the songs and to learn the Qazaq language. The website provides a valuable resource for music enthusiasts and language learners through collaboration and a passion for promoting Qazaq's cultural heritage.
 
-Overall, the Qazaq Genius project is my appreciation for Qazaq culture, striving to bridge cultural gaps and foster a deeper understanding of the beauty and diversity of Qazaq culture through the power of music.
+Overall, the Qazaq Genius project is my appreciation for Qazaq culture, striving to bridge cultural gaps and foster a deeper understanding of the beauty and diversity of Qazaq culture.
 
 [-> Visit the project page](https://github.com/Qazaq-Genius)
 
