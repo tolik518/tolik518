@@ -1,6 +1,3 @@
-# About
-
-Welcome to my GitHub profile! I'm passionate about learning and exploring various aspects of development.
 
 
 # Contact
