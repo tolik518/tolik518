@@ -60,4 +60,11 @@ It takes the bitmap-font and the text you want to write as input and generates a
 
 [-> Visit the project page](https://github.com/tolik518/bitmap_type_tracer)
 
+## factorion-bot
+
+[<img src="https://raw.githubusercontent.com/tolik518/factorion-bot/master/.github/image_pixelart_transparent.png" alt="factorion-bot face" width="auto" height="auto" align="right">](https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef)
+ A reddit bot, written in **Rust**, replying to comments, containing factorials, with the solution. This little fella is currently running on r/mathmemes, r/unexpectedfactorial and on r/ProgrammerHumor. 
+
+[-> Visit the project page](https://github.com/tolik518/factorion-bot)
+
 
