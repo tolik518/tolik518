@@ -17,10 +17,11 @@ If you'd like to collaborate, discuss a project, or have any questions, feel fre
 
 
 
-[<img src="https://returnnull.de/images/SoG_SGreader8.png" alt="Secrets of Grindea Screenshot" width="400px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
+[<img src="https://github.com/tolik518/SoG-Savegame-Editor/blob/master/.github/screenshots/SoG_SGreader_main_0.7.0.PNG?raw=true" alt="Secrets of Grindea Screenshot" width="350px" height="auto" align="right">](https://github.com/tolik518/SoG_SGreader)
 ## ![Icon](https://returnnull.de/images/_64.png) SoG Savegame Editor
 
-This is an editor for the character files of [Secrets of Grindea](https://www.secretsofgrindea.com/), a game I enjoyed playing. The SoG Savegame Reader, written in **C#**, allows you to open your save game, and edit various aspects such as your name, money, skills, experience, and inventory. You can also export the whole savegame to a JSON file. While some features like editing quest flags or collectibles are not implemented yet, I passively **maintain** the project but I don't plan to add more features at the moment. The latest version (v0.7.0) features in addition to the UI some CLI features.
+This is an editor for the character files of [Secrets of Grindea](https://www.secretsofgrindea.com/), a game I enjoyed playing. The SoG Savegame Reader, written in **C#**, allows you to open your save game, and edit various aspects such as your name, money, skills, experience, and inventory. You can also export the whole savegame to a JSON file. While some features like editing quest flags or collectibles are not implemented yet, I passively **maintain** the project but I don't plan to add more features at the moment.  
+The latest version (v0.7.0) features in addition to the UI some CLI features.
 
 [-> Visit the project page](https://github.com/tolik518/SoG_SGreader)
 
@@ -29,7 +30,7 @@ This is an editor for the character files of [Secrets of Grindea](https://www.se
 
 ## ![Icon](https://returnnull.de/images/pong_github.png) GBA Pong
 
-[<img src="https://raw.githubusercontent.com/tolik518/GBA_Pong/master/.github/readme/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="left">](https://github.com/tolik518/GBA_Pong)
+[<img src="https://raw.githubusercontent.com/tolik518/GBA_Pong/master/.github/readme/pong-2.png" alt="Pong for Game Boy Advance" width="auto" height="auto" align="right">](https://github.com/tolik518/GBA_Pong)
 
 This is a simple Pong game developed for the Game Boy Advance using **C**. It utilizes the mode 3, also known as bitmap mode, and features a cool pixel art title screen.   
 Although it doesn't have any advanced features, it was a great project for me to dive into the C programming world, into dockerizing a C environment, and into game development.
@@ -60,9 +61,8 @@ It takes the bitmap-font and the text you want to write as input and generates a
 
 [-> Visit the project page](https://github.com/tolik518/bitmap_type_tracer)
 
-## factorion-bot
+## [<img src="https://raw.githubusercontent.com/tolik518/factorion-bot/master/.github/image_pixelart_transparent.png" alt="factorion-bot face" width="64px" height="64px">](https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef) factorion-bot
 
-[<img src="https://raw.githubusercontent.com/tolik518/factorion-bot/master/.github/image_pixelart_transparent.png" alt="factorion-bot face" width="auto" height="auto" align="right">](https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef)
  A reddit bot, written in **Rust**, replying to comments, containing factorials, with the solution. This little fella is currently running on r/mathmemes, r/unexpectedfactorial and on r/ProgrammerHumor. 
 
 [-> Visit the project page](https://github.com/tolik518/factorion-bot)
