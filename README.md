@@ -39,7 +39,7 @@ Although it doesn't have any advanced features, it was a great project for me to
 
 
 
-
+<!--
 [<img src="https://github.com/tolik518/tolik518/assets/3026792/4bc74258-3a11-4aa5-896b-01db79f8ab45" alt="qazaq genius screenshot" width="300px" height="auto" align="right">](https://github.com/tolik518/tolik518/assets/3026792/51f183e9-632a-491c-8988-53cbb3b2adef)
 
 ## ![Icon](https://github.com/Qazaq-Genius/Qazaq-Genius-App/blob/editor/public/favicon-32x32.png) Qazaq Genius
@@ -50,7 +50,7 @@ The project was a personal initiative to contribute to the Qazaq community. By d
 Overall, the Qazaq Genius project is my appreciation for Qazaq culture, striving to bridge cultural gaps and foster a deeper understanding of the beauty and diversity of Qazaq culture.
 
 [-> Visit the project page](https://github.com/Qazaq-Genius)
-
+-->
 
 
 ## ![bitmap_type_tracer](https://raw.githubusercontent.com/tolik518/bitmap_type_tracer/main/logo.png)
