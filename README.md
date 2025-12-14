@@ -7,7 +7,9 @@ If you'd like to collaborate, discuss a project, or have any questions, feel fre
 
 [<img src="https://github.com/tolik518/tolik518/assets/3026792/9987a86b-2aaa-4f3e-b175-fa2db1b85772" alt="LinkedIn" width="16px" height="auto">](https://www.linkedin.com/in/anatolij-vasilev/) [Anatolij Vasilev](https://www.linkedin.com/in/anatolij-vasilev/)
 
-[<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="x.com" width="16px" height="auto">](https://x.com/tolik518) [tolik518](https://x.com/tolik518)
+[<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="x.com" width="16px" height="auto">](https://x.com/tolik518) [tolik518](https://x.com/tolik518)  
+
+[<img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" alt="discord" width="16px" height="auto">](https://x.com/tolik518) [Discord](https://discord.gg/ZvXKbCtHRN)
 
 
 # Projects
